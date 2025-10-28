@@ -9,3 +9,7 @@ An in depth article about this project is avilable [here](https://medium.com/p/d
 - Modeling: trained multiple neural networks (baseline, standardized, normalized) with ReLU hidden layers and sigmoid outputs.
 - Results: best models achieved ~88% accuracy, showing potential for predicting short-term performance.
 - Reflection: highlighted challenges of long-term predictions in baseball and proposed next step of developing a pitch classification model using TrackMan data.
+
+# Example
+<img width="552" height="205" alt="image" src="https://github.com/user-attachments/assets/835518d8-9f61-4b0d-aa21-1f9c9bd97707" />
+Only the first prediction is correct
